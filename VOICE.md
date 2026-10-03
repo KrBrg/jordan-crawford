@@ -1,4 +1,4 @@
-# VOICE
+# Voice
 
 ## Summary
 
@@ -69,3 +69,11 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 38. “you need to find, not filter the world.” — https://www.revenue-reimagined.com/insights/podcast/he-speaks-to-ai-more-than-humans
 39. “that's a that's a stat I like to loudly proclaim, but I'm very embarrassed about.” (talks to AI more than humans) — https://www.revenue-reimagined.com/insights/podcast/he-speaks-to-ai-more-than-humans
 40. “Go an inch wide and a mile deep.” — https://www.revenue-reimagined.com/insights/podcast/he-speaks-to-ai-more-than-humans
+
+
+### Spoken — Topline / Pavilion (2026-04-19 caption upgrade)
+41. “A PVP is is classic, so I will die on that hill.” — https://www.youtube.com/watch?v=uqbL51_vNBk
+42. “Go-to-market leaders need to be in the tools. They need to be using Claude Code and Claude Co-work.” — same
+43. “my sort of core thesis is that we built our organizations around human capabilities… But AI capabilities are much different.” — same
+44. “I asked Claude Code to go help me solve this problem… I took all of the emails in their TAM and submitted 110,000 password reset emails and I found all of the actual users of their competitor software.” — same
+45. “Clay is usually that system not because you can't go faster in Claude Code. You can. But the problem is you can go faster in Claude Code… it can do anything that you say.” — same

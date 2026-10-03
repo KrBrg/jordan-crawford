@@ -1,6 +1,7 @@
-# OPINIONS
+# Opinions
 
-Sourced public positions. Each item is grounded in his public writing and speech (free first-party Substack, sites, YouTube captions, and attributed interview transcripts; paywalled Substack skipped).
+Sourced public positions. Every item has evidence in the public evidence grounding for this distillation. Free first-party Substack, sites, YouTube captions, and attributed interview transcripts only (paywalled Substack skipped).
+
 ## The inversion / work backwards from the message
 
 - Traditional GTM (ICP → persona → product message → SDR personalization) is broken: the message is about you, not the buyer’s situation.
@@ -43,3 +44,22 @@ Sourced public positions. Each item is grounded in his public writing and speech
 - Fractional GTM engineer posture: do the work in Claude Code — campaigns, churn, enrichment, call parsing — publish methodology in real time.
 - Prefer tools that give compounding context; QA the model’s output rather than treating generation as finished work.
 - Vertical + public-data creativity (government records, permits, competitor fingerprints) is a durable edge.
+
+
+## Great Inversion + leaders in the tools (Topline 2026-04-19)
+
+- **Great Inversion:** pre-AI GTM was top-down (strategy → systems → interchangeable tools). Post-AI, leaders must rebuild around **AI capabilities**, not only human job descriptions — human and AI capabilities rarely overlap cleanly.
+- GTM leaders need to be **in the tools** — specifically **Claude Code** and **Claude Co-work** — in a way that didn’t matter for clicking around 6Sense/Demandbase intent UX.
+- **PVP still stands:** “A PVP is classic, so I will die on that hill.”
+
+
+## Competitor-user discovery via password-reset probes (Topline)
+
+- Concrete play: take emails in the TAM, submit **password-reset** requests at scale (example: ~110k), observe which accounts exist → map **actual users of a competitor’s software**.
+- Use that map to find segments far more likely to buy; pair with vertical SaaS + public-data creativity already in the stack.
+
+
+## Clay as the operational system vs Claude Code speed (Topline)
+
+- You can go **faster in Claude Code**, but that “can do anything you say” flexibility is also **existential risk** for production ops.
+- Prefer **Clay** (or a similar constrained system) as the day-to-day operational layer when you need sticky, repeatable workflows — especially enterprise/RevOps-shaped POCs — while still using Claude Code for inventive spikes.
