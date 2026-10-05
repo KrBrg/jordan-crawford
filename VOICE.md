@@ -15,6 +15,7 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 - Casual greetings: Howdy, Yo, What’s going on everyone.
 - Self-deprecating operator bits (talks to AI more than humans; bad salesperson because inbound from content).
 - Substack closes often note Claude-assisted draft + “Approved by Jordan.”
+- Live-build register: narrates to Claude via voice, roasts real AI-SDR messages aloud, self-mocking asides (“which I've named after myself cuz I'm conceited”), and plain-English jokes about engineer jargon (“Regular people call folder.”).
 
 ## Exact quotes by register
 
@@ -77,3 +78,21 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 43. “my sort of core thesis is that we built our organizations around human capabilities… But AI capabilities are much different.” — same
 44. “I asked Claude Code to go help me solve this problem… I took all of the emails in their TAM and submitted 110,000 password reset emails and I found all of the actual users of their competitor software.” — same
 45. “Clay is usually that system not because you can't go faster in Claude Code. You can. But the problem is you can go faster in Claude Code… it can do anything that you say.” — same
+
+### Spoken — GTMshift live case study build (2026-08-05)
+46. “We are not starting with our imagination. We're starting with ZoomInfo filters from 1999.” — https://www.youtube.com/watch?v=WjJzibHhblY
+47. “They are selling firing humans by asking me to come in person to meet a human.” — same (roasting an AI SDR message)
+48. “Sendoso can sell to anyone that has two feet, two eyes, and a wallet.” — same
+49. “I call this PVP permissionless value prop and I think about this is the next version of PLG.” — same
+50. “the best AI agent of this generation is the AI agent of last generation, Google.” — same
+51. “free will get you 70% of the way there. Cheap will get you to 80% of the way there, and then that's when you just pay more money to close the gap.” — same
+52. “I'm post-clicking. I'm not clicking anymore. I'm done with clicking.” — same
+53. “your job is to ship 80% not to ship 90% every 6 months.” — same
+54. “just don't ever trust its price or its time estimates.” — same (on Claude)
+55. “there are times when I think I should just write this damn thing myself.” — same
+
+### Spoken — Revenue Leadership Podcast w/ Kyle Norton (2026-01-22)
+56. “It is an alien intelligence that will swallow my job. It will swallow your job. You will be much, much, much better with it, but not if you don't.” — https://www.youtube.com/watch?v=2BJpYTbNQvw
+57. “There's the the um chatbt era, the clay era, and the cloud code era.” — same
+58. “So I go from just like unstructured information to structured context” — same
+59. “Regular people call folder.” — same (on “repo”)

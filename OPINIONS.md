@@ -63,3 +63,22 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 
 - You can go **faster in Claude Code**, but that “can do anything you say” flexibility is also **existential risk** for production ops.
 - Prefer **Clay** (or a similar constrained system) as the day-to-day operational layer when you need sticky, repeatable workflows — especially enterprise/RevOps-shaped POCs — while still using Claude Code for inventive spikes.
+
+## Unlimited intelligence per prospect / PVP as next PLG (GTMshift live build 2026-08-05)
+
+- Bar for any GTM AI: judge the **message** it produces. Ask “what would you do if you could deploy unlimited intelligence for every single prospect?” — most teams start from ZoomInfo filters, not imagination (roasts a $46M AI SDR whose pitch to replace humans asks for an in-person coffee).
+- Three questions: **who's qualified to buy** (sort out half the market), **what an A+ prospect looks like**, and the hardest — **what will they value?**
+- Best value is to **use your solution on their behalf** — PVP as “the next version of PLG”: the prospect experiences the outcome without doing anything (live example: case-study champions who changed jobs + Sendoso gift API → “want me to send this on your behalf?”).
+- Cost ladder: free gets ~70%, cheap ~80%, then pay to close the gap. Download sites locally and keyword-search before paying for AI; Google `site:` searches (“the best AI agent of this generation is the AI agent of last generation, Google”); public GitHub/Hugging Face datasets; Blitz unlimited pulls; FullEnrich for emails/cells.
+- Don't personalize across 56 variables — build a **segment** that needs a type of value; walk backwards from the personal message and have Claude reverse-engineer the criteria and datasets; skip pockets too small to be worth a campaign.
+- Speed beats perfection: ship ~70–80% and fix on reps' complaints (Monday complain, Tuesday fix and ship); “your job is to ship 80% not to ship 90% every 6 months.” Accountability (did reps actually call?) is a human problem AI can't fix.
+- Claude Code practice: plan mode first — creativity in the first ~20–30% of the context window, execution after; deploy sub-agents to narrow context; never trust Claude's price/time estimates; treat each task as a context window. Post-clicking: talks to tools (Clay CLI) instead of clicking.
+- Jobs are bundles of tasks — map what needs constant human judgment vs what agents can take; agents are dogged at a singular goal, and that goal shouldn't be “write content for me.” Editing AI output is costly; sometimes faster to write it yourself.
+- Works read-only on client systems: reads CRM + enriches from the public web and hands over a list; won't write back into a client CRM.
+
+## Claude Code era (Revenue Leadership Podcast w/ Kyle Norton 2026-01-22)
+
+- Three GTM eras: **ChatGPT** (word/data tasks), **Clay** (deterministic workflows that don't know you), **Claude Code** (goal-driven, compounding local context, “autonomous judgments within very very narrow lanes”). A campaign is his unit of building; each campaign improves the shared primitives.
+- Context compounds when you turn unstructured info (transcripts) into structured markdown context once and reuse it; Claude prompts you (his Auto Clay Agent tool) rather than the other way around.
+- Leaders must learn to talk to this “alien intelligence that no one has built a great translator for yet” — it will swallow jobs; you'll be much better with it, not without it.
+- Personally runs Claude Code with permissions skipped for local work (not rebuilding big SaaS, not exposing to the internet) — an operator choice, not advice for production systems.
