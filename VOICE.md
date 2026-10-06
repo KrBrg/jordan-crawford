@@ -16,6 +16,7 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 - Self-deprecating operator bits (talks to AI more than humans; bad salesperson because inbound from content).
 - Substack closes often note Claude-assisted draft + “Approved by Jordan.”
 - Live-build register: narrates to Claude via voice, roasts real AI-SDR messages aloud, self-mocking asides (“which I've named after myself cuz I'm conceited”), and plain-English jokes about engineer jargon (“Regular people call folder.”).
+- Build-log register (Substack): quotes his own typo'd prompts verbatim, then “What Claude did:” beats; blunt self-verdicts (“It worked. It was also stupid.”) and profane asides kept in.
 
 ## Exact quotes by register
 
@@ -96,3 +97,27 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 57. “There's the the um chatbt era, the clay era, and the cloud code era.” — same
 58. “So I go from just like unstructured information to structured context” — same
 59. “Regular people call folder.” — same (on “repo”)
+
+### Free Substack — build log (2026-10-05)
+60. “It worked. It was also stupid.” — https://edge.blueprintgtm.com/p/how-i-got-claude-code-and-codex-to
+61. “I was the slowest part of the system.” — same
+62. “I didn't care about the plumbing.” — same
+63. “I still didn't publish it, because it didn't sound like me.” — same
+64. “Injured my finger hence my mad typos.” — same
+65. “codex always fucks up the images, claude code never does.” — same (his prompt, quoted as sent)
+
+### Spoken — own channel solo (GuJ4SCoLTIU; DIGq6uRgvns)
+66. “Howdy, howdy, howdy.” — https://www.youtube.com/watch?v=GuJ4SCoLTIU
+67. “Jordan, I love your wallet.” — same (parodying the sender-centric message)
+68. “hard to fake, but easy to feel” — same
+69. “target by situation, not by signal, because signals are selfish” — same
+70. “Now, I don't mean to get Tony Robbins on you.” — same
+71. “There are going to be a bunch of talking heads that don't actually do work. Sick burn.” — https://www.youtube.com/watch?v=DIGq6uRgvns
+72. “I don't I don't know this person from a hole in the ground.” — same
+
+### Spoken — FullEnrich podcast (2026-08-06)
+73. “Hi Tim, congratulations on being named Tim. What a great name that you have.” — https://www.youtube.com/watch?v=EZpoQ8gT02E (parody cold email)
+74. “if go to market is hard for you, you're too wide” — same
+75. “I'm just making stuff up. I'm not a doctor.” — same
+76. “I'll never use Claude or OpenAI's models for doing search. They're just not great.” — same
+77. “I do have a tool called Edge Co-Pilot that is Jordan in your terminal” — same

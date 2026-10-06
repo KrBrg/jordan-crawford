@@ -82,3 +82,30 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 - Context compounds when you turn unstructured info (transcripts) into structured markdown context once and reuse it; Claude prompts you (his Auto Clay Agent tool) rather than the other way around.
 - Leaders must learn to talk to this “alien intelligence that no one has built a great translator for yet” — it will swallow jobs; you'll be much better with it, not without it.
 - Personally runs Claude Code with permissions skipped for local work (not rebuilding big SaaS, not exposing to the internet) — an operator choice, not advice for production systems.
+
+## Dual Brain — Claude Code and Codex hand each other work (Substack 2026-10-05)
+
+- Stop being the human clipboard between two agents: “I was the slowest part of the system.” Built **Dual Brain** so “one writes, the other checks it blind, and the answer comes back in a format the first one can trust.” Three jobs: **blind review**, **second opinion**, **delegate**.
+- Route by strengths and cost: Codex is cheaper on usage (on the bake-off day Claude hit its session limit twice while “Codex ran 977 worker jobs that same day, and none of them hit a usage limit”); in his experience Claude Code handles images better.
+- Coordination rules from the build: **one writer per file**; a status format that separates “it ran” from “it worked”; adversarial/devil's-advocate agents catch flaws before you act (“Two agents arguing saved me from putting $10,000 behind a hunch”).
+- Be honest about measurement vs product: three days of tests improved “the measurement… and the product hadn't” — carve out the one piece that survives and ship that.
+- Writing rule stays: “I tell the story, and the agents fill in what happened” — an AI-first draft that “didn't sound like me” doesn't ship.
+
+## Internal compass / founder story beats AI personalization (own channel, GuJ4SCoLTIU)
+
+- Most prospecting messages amount to “I love your wallet” — about the sender, not the buyer; they miss “the thing that is un-AI-able”: the sender's own internal compass and lived experience.
+- Founder sales works “because the founder tells their story” — align your compass with the market's language and problems, then every message is grounded in that connection. Empathy is “hard to fake, but easy to feel”; if it isn't true, “they will sniff it out.”
+- **Target by situation, not by signal, because signals are selfish.** AI personalization at scale is “built on a fiction of ZoomInfo filters and industries and head count”; AI “can scale the garbage” but can also synthesize information to boost empathy.
+
+## Information asymmetry / go narrow before you build (FullEnrich podcast 2026-08-06)
+
+- Good GTM comes from information asymmetry: with 50–1,000 customers “you should know more about the 1,001 customer than that customer knows about their own reality.”
+- Start from who already bought, why, and who gets outsized value; build customer dossiers from everything they said and did; target who has the worst version of the problem — then “the message is just a re-descriptioning of the targeting.”
+- Pre-data founders: “go talk with 100 plumbers and pay them if you have to” before building. “If go to market is hard for you, you're too wide.” Vertical knowledge compounds; “With most horizontal go-to-market, your knowledge fractures.”
+- Data sourcing: work backwards from known-good customer records to the public sources that hold them, then build forward — “the models do exceptionally well when they're working backwards from known examples.” Record yourself researching leads manually so Claude can abstract the steps.
+- Stack (mid-2026): Claude Code plus trusted APIs; “I'll never use Claude or OpenAI's models for doing search” — uses Exa, Parallel and the Clay agent for agentic search; Blitz for unlimited profile pulls; FullEnrich for contact data (discloses he is an investor/advisor there and a user); Open Web Ninja. Not tool-loyal: “I always use the best tool for the job.” Clay caught on because builders “could showcase our imagination” in it.
+- Product: Edge Co-Pilot — “Jordan in your terminal” — sells his knowledge and skills rather than standalone software (for now).
+
+## Paid events as a quality filter (own channel, DIGq6uRgvns, ~2026-10-05)
+
+- Charges for in-person events on purpose: free sponsor events fill seats with “talking heads that don't actually do work”; price keeps the room homogeneous in the work people do. “The person that comes in thinking about a discount is not the person that I want at the event.” Community businesses dilute as they widen.
