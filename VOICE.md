@@ -121,3 +121,19 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 75. “I'm just making stuff up. I'm not a doctor.” — same
 76. “I'll never use Claude or OpenAI's models for doing search. They're just not great.” — same
 77. “I do have a tool called Edge Co-Pilot that is Jordan in your terminal” — same
+
+### Spoken — The GTMshift podcast (2026-08-18)
+78. “I got fired from a lot of places.” — https://www.youtube.com/watch?v=DXxBT2AHbBc
+79. “because the suffering is the education.” — same
+80. “It's not a clay problem. It is a so what problem.” — same
+81. “putting a legless robot on a horse. You uh the thing still shits and you get nowhere faster” — same
+82. “it's like show me the copy. And if I can see the copy, I know instantly that there's no great data behind it.” — same
+83. “I'm not trying to write myself out of a box. I'm trying to target myself out of a box.” — same
+84. “No one has a clean CRM today.” — same
+85. “the most powerful person won't be the first chair violinist, it will be the conductor.” — same
+86. “they just feel blobby.” — same (on LLM text)
+
+### Spoken — own channel solo (K43pi85WegU, 2026-10-06)
+87. “I've been a go to market engineer since 2020 since we had to do work with our cold bare hands.” — https://www.youtube.com/watch?v=K43pi85WegU
+88. “I didn't want to turn this into a pitch show.” — same
+

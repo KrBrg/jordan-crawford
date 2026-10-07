@@ -109,3 +109,21 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 ## Paid events as a quality filter (own channel, DIGq6uRgvns, ~2026-10-05)
 
 - Charges for in-person events on purpose: free sponsor events fill seats with “talking heads that don't actually do work”; price keeps the room homogeneous in the work people do. “The person that comes in thinking about a discount is not the person that I want at the event.” Community businesses dilute as they widen.
+
+## GTM engineering vs RevOps / the AI-savvy CRO (The GTMshift podcast, 2026-08-18)
+
+Guest interview (host labeled; Jordan's answers are first-person Blueprint). Caption wording approximate.
+
+- **Data moat, not tools:** buying Clay because someone said so is tool thinking; the real need is a moat, and for GTM the best moat is a data moat — bespoke data that today only lives in SDR/AE research. The GTM engineer's job is answering “if you only had to work for one customer, what would you give them?” and operationalizing it: “It's not a clay problem. It is a so what problem.”
+- **GTM engineer vs RevOps:** RevOps is CRM maintenance — “They are consumers of business strategy.” GTM engineers do “database origination”: connect strategy to outside data and orchestrate it into channels (LinkedIn, cold email, ads); best case they partner with RevOps and act as the translation layer between what reps do and what execs know.
+- **Before hiring one, go prospect yourself:** imagine every SDR and AE is fired tomorrow and you must prospect for a day — do that, sit with sellers. “you can't ask someone to automate what you don't understand”; AI just makes you look more embarrassed if you don't know what to automate and why. Bolting AI onto the old account→persona→contacts→personalize→scale model is “putting a legless robot on a horse.”
+- **Evaluate AI GTM tools by the copy:** “show me the copy” — if the copy shows no great data behind it, the LLM is inventing. Sold signals degrade as more people use them; the only one that really worked was champion movement “because your competitors can't copy it.”
+- **Customer-backwards method:** best segment and why → 2–5 heuristics that imply tension → message (“The list is the message”) → AI only channelizes the message per channel → scale segment by segment, plus PVPs (“I'm trying to target myself out of a box”). Horizontal companies should verticalize motions or their “knowledge fractures not compounds.”
+- **Systems of intelligence + the conductor CRO:** an LLM with your context in the middle, connected (via MCP) to systems of record (clean your CRM in the next six months — “No one has a clean CRM today”), systems of information (most underinvested: your own market database) and systems of action. The future CRO works with two to five people (a QA/editor with a critical eye, a customer storyteller, a database/RevOps person) and is “the conductor,” not the first-chair violinist. Start by having the team dump every call into a long-context model and ask “Tell me about my customers”; just start chatting with models — “the interface is not the limitation.”
+- **Founder origin:** got fired from a lot of places — opinionated, no half measures; wants to suffer his own wrong calls “because the suffering is the education.”
+
+## Building live on stage / one-person business (own channel, K43pi85WegU, 2026-10-06)
+
+- Tech Week SF event (Oct 7, sponsored by Exa and FullEnrich): build GTM motions live from the stage with Claude Code on one side and slides on the other, and open-source the tools for everyone in the room — show the real work, not “the types of plays that you see on LinkedIn.”
+- Runs a one-person business he says has grown 50–60% year-over-year every year; GTM engineer since 2020. Most expensive event means fewer people and higher-quality conversations; expects to break even and only took sponsors he uses — “I didn't want to turn this into a pitch show.”
+
