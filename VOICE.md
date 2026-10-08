@@ -137,3 +137,13 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 87. “I've been a go to market engineer since 2020 since we had to do work with our cold bare hands.” — https://www.youtube.com/watch?v=K43pi85WegU
 88. “I didn't want to turn this into a pitch show.” — same
 
+
+### Free Substack — Get Started Here (2026-10-08, Sculpt talk write-up)
+89. “My read is that everyone got cheap intelligence and spent it on volume, and the messages didn't get better.” — https://edge.blueprintgtm.com/p/get-started-here-how-i-run-go-to
+90. “Following a company on LinkedIn isn't intent, and the sender didn't even filter out the company's own employees.” — same
+91. “Your closed-won deals are the planes that came home.” — same
+92. “My GitHub handle is SantaJordan, a name I picked assuming nobody would ever see it. Now I explain it to clients every month that isn't December.” — same
+93. “A slow test builds pressure to work; a fast one just teaches you.” — same
+94. “If you have a money printer, push the button more often.” — same
+95. “My notetaker robot had attended. That's human capital spent on noise.” — same
+96. “I expected nothing back. We're good friends now, and he hired me when he took his next job.” — same
