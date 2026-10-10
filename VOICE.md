@@ -147,3 +147,17 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 94. “If you have a money printer, push the button more often.” — same
 95. “My notetaker robot had attended. That's human capital spent on noise.” — same
 96. “I expected nothing back. We're good friends now, and he hired me when he took his next job.” — same
+
+### Spoken — Sculpt compendium talk (EwKQ9zC5cTg, 2026-10-06; captions approx.)
+97. “I am a soloreneur. It's just me.” — https://www.youtube.com/watch?v=EwKQ9zC5cTg
+98. “This is what I call a PVP, a permissionless value prop.” — same
+99. “So not replying to this message is essentially saying I don't care about $1.3 million a year.” — same
+100. “Following something on LinkedIn is not any form of intent.” — same
+101. “if you are persistent about something that's useless, the result will also be useless.” — same
+102. “the only timeless strategy that AI will never replace is to implement empathy.” — same
+103. “Signals are things that vendors want to sell you.” — same
+104. “Engineers use fancy words like commits so they can get paid $500,000 a year.” — same
+105. “Everything gets better when you ship often.” — same
+106. “Nope, you have a money printer. Push the go button and push it often.” — same
+107. “That's the bar. That's how you know.” — same
+108. “Your attention was a gift.” — same
