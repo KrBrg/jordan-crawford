@@ -161,3 +161,11 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 106. “Nope, you have a money printer. Push the go button and push it often.” — same
 107. “That's the bar. That's how you know.” — same
 108. “Your attention was a gift.” — same
+
+### Incremental 2026-10-14 — Substack Office Hours July 24 (pub 2026-10-13; free portion)
+109. “All three came down to the question I ask on almost every task: how do I get the right answer for close to nothing?” — https://edge.blueprintgtm.com/p/office-hours-july-24th-109-golfers
+110. “The easy start is pointing a model at the problem. Most of the time that's a mistake. The first question I ask about any task is whether I can write code to solve it instead of paying for intelligence.” — same
+111. “Some model providers are trying to optimize their agents. I care about optimizing the outcome, and ordinary software is very good at producing one.” — same
+112. “When I need to search the web, I start with a plain Google search run through a cheap tool… I switch to an AI search engine only when the task is harder or Google comes back with weak results.” — same
+113. “What you're paying for is the filter” — same
+114. “A signal every company sends can't pick a buyer” — same

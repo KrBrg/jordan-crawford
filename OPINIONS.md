@@ -155,3 +155,15 @@ Solo first-person screen-share; captions approximate. Same method as the Get Sta
 - **Ship often; improve what works:** “Everything gets better when you ship often.” A slow test makes pressure grow when it should shrink. Don't chase new channels: citing a Brian Balfour post, “Most companies that got to 100 million did so with one channel.” With a campaign that converted 84% of contacts to opportunities he said juice it — “Nope, you have a money printer. Push the go button and push it often.”
 - **The bar:** if a prospect sees your message and says it would be really valuable, “That's the bar. That's how you know,” then work backwards: right person, value only you can provide, a channel they're responsive to, validated with past customers or prospects.
 - **Business model, as he states it:** $50/month tier for writing, $2,500/year tier with “a wiki that's updated all the time” and a “Jordan Crawford in Cloud Code” — his own description, not endorsed here.
+
+## Cheap right answers / code before AI / pay for the filter (incremental 2026-10-14 — Substack Office Hours July 24th, pub 2026-10-13)
+
+Free portion of https://edge.blueprintgtm.com/p/office-hours-july-24th-109-golfers (first-party Substack). Paid “below the line” builds not fetched.
+
+- **Ask: right answer for close to nothing:** “how do I get the right answer for close to nothing?” Live Exa example: every golfer on LinkedIn in one country → 109 people for about a dollar.
+- **Write code before you pay a model to think:** “The easy start is pointing a model at the problem. Most of the time that's a mistake.” Prefer scripts/keyword search (e.g. common first names for quotes on case-study pages; “doesn't pick up” / “doesn't answer” across hundreds of thousands of reviews) at $0 before paying for intelligence.
+- **Optimize the outcome, not the agent:** “Some model providers are trying to optimize their agents. I care about optimizing the outcome, and ordinary software is very good at producing one.” His Crawford agent “tries the free path first.”
+- **Start with Google; upgrade only when weak:** plain Google via a cheap tool first — “for most jobs… it simply returns better results than an AI search.” Switch to AI search when the task is harder or Google is weak.
+- **Tool jobs:** Exa for people layer / finding and filtering people; Blitz when you need to go through everyone (e.g. every LinkedIn person in a country) and run your own filter.
+- **Pay for the filter, not the dump:** “What you're paying for is the filter” — Exa’s edge is that “people pay over and over again to filter the same data.”
+- **Universal signals don't pick buyers:** a signal every company sends (e.g. “AI enablement,” “who's spending too much on AI”) “can't pick a buyer.” Founders rarely post “I'm flaming out”; they post after they overcame it — so public stress signals mostly show up after the pain is gone.
