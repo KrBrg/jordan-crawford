@@ -169,3 +169,17 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 112. “When I need to search the web, I start with a plain Google search run through a cheap tool… I switch to an AI search engine only when the task is harder or Google comes back with weak results.” — same
 113. “What you're paying for is the filter” — same
 114. “A signal every company sends can't pick a buyer” — same
+
+### Spoken — own channel solo (-0doA9qurag, 2026-10-14; captions approx.)
+115. “Yo yo yo. I'm here in the brand new Whimo.” — https://www.youtube.com/watch?v=-0doA9qurag
+116. “I basically don't move on things really quickly unless they provide a leap like a true leap forward.” — same
+117. “I'm an early adopter. I will take what the innovators do and let them figure out all the noise and take the latest stuff.” — same
+118. “Now it used to be that I was pretty dogmatic about my customers using the terminal. I actually think it's like not the best surface for them anymore.” — same
+119. “And I was like, "I know who can help." AI can help.” — same
+120. “I think that this is the trick to running a very successful single person business is to just be narrow and go deeper and deeper and deeper.” — same
+121. “But if you just kind of say we're the AI platform for AIing, AIing, you know, it's just you're not going to get anywhere.” — same
+122. “If you got to eight minutes in the video, God bless you.” — same
+123. “Where does value acrue with more intelligence?” — same (caption spelling)
+124. “a diminishing return value question is like, help me personalize this email more, right?” — same
+125. “I think this is our main problem in go to market frankly is that we don't have enough ideas about these infinite time problems” — same
+126. “All right, I got to go supervise this Whimo. It's been driving by itself.” — same
