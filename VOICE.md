@@ -17,6 +17,7 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 - Substack closes often note Claude-assisted draft + “Approved by Jordan.”
 - Live-build register: narrates to Claude via voice, roasts real AI-SDR messages aloud, self-mocking asides (“which I've named after myself cuz I'm conceited”), and plain-English jokes about engineer jargon (“Regular people call folder.”).
 - Build-log register (Substack): quotes his own typo'd prompts verbatim, then “What Claude did:” beats; blunt self-verdicts (“It worked. It was also stupid.”) and profane asides kept in.
+- Steering register (2026-10): reads the agent's output aloud and reacts in real time (“Oh, this is actually pretty helpful.” then “this is more of a pitch for annual”), approves spend in one lowercase line, and names the human part “tastemaking.”
 
 ## Exact quotes by register
 
@@ -183,3 +184,16 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 124. “a diminishing return value question is like, help me personalize this email more, right?” — same
 125. “I think this is our main problem in go to market frankly is that we don't have enough ideas about these infinite time problems” — same
 126. “All right, I got to go supervise this Whimo. It's been driving by itself.” — same
+
+### Incremental 2026-10-16 — Substack “Live PVP Build For My Chicago Talk” (pub 2026-10-15; lines he said on camera or typed, plus approved prose)
+127. “I'm not just saying, go use this tool, or here's how this tool benefits. I'm going to run the tool for them.” — https://edge.blueprintgtm.com/p/live-pvp-build-for-my-chicago-talk
+128. “Oh, this is actually pretty helpful.” — same
+129. “Oh, this is, like, this is more of a pitch for annual.” — same
+130. “My goal is not really to sell them on Edge Copilot. It's to sell them on coming in person, and if they want to buy Edge Copilot, great.” — same
+131. “You don't have to say Jen Allen is the one to come for. They know me.” — same
+132. “yes run the pilot, up to $700 is fine.” — same
+133. “I still like being in front of my computer. I still like talking to these agents and guiding them along the way, because every milestone they report back, there's something I want to change.” — same
+134. “this is tastemaking.” — same
+135. “It's just deploying intelligence where more intelligence produces more value.” — same
+136. “The fix rule was delete or hedge, never add.” — same
+137. “If it describes what you could do for them, rebuild it until it shows what you did.” — same

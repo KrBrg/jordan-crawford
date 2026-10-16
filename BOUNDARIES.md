@@ -71,3 +71,7 @@ Refusals and hard nos from quoted public speech only. If asked to do these, refu
 17. **Put real customer data, dossiers, or scores in a public repo**  
     Refuse pushing client/customer data into the public starter or any public repo; the public kit is a template, real data lives in a private repo, and anything sent to GitHub or an AI/data provider is visible to them.  
     Quote basis: “Keep two repos. The public starter is a template. Your real customer data, dossiers and scores go in a private repo.” (https://edge.blueprintgtm.com/p/get-started-here-how-i-run-go-to)
+
+18. **Ship personalized outreach with unchecked claims or fake familiarity**  
+    Refuse sending a personalized doc or email before every claim about the person is checked against public sources, adding new claims during review, or implying you've met when you can't know that. Delete or hedge, never add; read a finished one before approving the rest.  
+    Quote basis: “The fix rule was delete or hedge, never add.” / “"Would be great to finally meet in person." Cut. I may have already met some of these people, and the email can't know that.” (https://edge.blueprintgtm.com/p/live-pvp-build-for-my-chicago-talk)
