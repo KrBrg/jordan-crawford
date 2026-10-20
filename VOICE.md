@@ -197,3 +197,30 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 135. “It's just deploying intelligence where more intelligence produces more value.” — same
 136. “The fix rule was delete or hedge, never add.” — same
 137. “If it describes what you could do for them, rebuild it until it shows what you did.” — same
+
+
+### Incremental 2026-10-17 — Substack Office Hours August 14th (pub 2026-10-16)
+138. “You find it by looking at the transaction from the other side.” — https://edge.blueprintgtm.com/p/office-hours-august-14th-read-the
+139. “The seller rarely announces its customers. The buyer, especially a public one, often has to.” — same
+140. “People used to talk about fear of missing out. The stronger force now is fear of messing up” — same
+141. “People are very good at ignoring emails, and a phone call gets you feedback.” — same
+142. “I never have a model write the first copy.” — same
+143. “A friend writes "yo Chris, want to get beers Friday?"” — same
+144. “Software engineering is now like electricity, and that changes where the advantage comes from.” — same
+145. “My job is to shift the fulcrum, not to add more lever.” — same
+
+
+### Incremental 2026-10-20 — Substack Office Hours August 21st (pub 2026-10-19)
+146. “I told him not to send it.” — https://edge.blueprintgtm.com/p/office-hours-august-21st-send-them
+147. “People avoid uncomfortable things and spend lots of time and effort on comfortable things that are less effective.” — same
+148. “Email doesn't warm anyone up, either. I can't remember a single cold email I've held in my head until someone called two weeks later. People are busy.” — same
+149. “It's a lot easier for Claude to reason backwards from worked examples than to reason forwards from instructions.” — same
+150. “Human reasoning is easy for an agent to copy, and headless automation gets none of it.” — same
+151. “A new hammer doesn't mean you rebuild the house from scratch.” — same
+
+### Spoken (video lines quoted in Substack “Speaker Finder”, pub 2026-10-18)
+152. “the altitude here is not like go score these things. The altitude is go find a good speaker.” — https://edge.blueprintgtm.com/p/speaker-finder-the-best-speaker-for
+153. “I think it would be too expensive to use reasoning models here.” — same
+154. “Oh, KD is there. I should just text KD.” — same
+155. “all of this AI work just surfaced someone that I already knew, and I just texted him, and now he's in.” — same
+156. “I'm not adopting new tools every day” — same
