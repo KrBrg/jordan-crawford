@@ -224,3 +224,12 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 154. “Oh, KD is there. I should just text KD.” — same
 155. “all of this AI work just surfaced someone that I already knew, and I just texted him, and now he's in.” — same
 156. “I'm not adopting new tools every day” — same
+
+### Incremental 2026-10-23 — Substack “Here's a list of every U.S. sales team” (pub 2026-10-22)
+157. “Picture the person who sells sales software. It is Monday, pipeline review is in two hours, and the job this morning is to produce a target list.” — https://edge.blueprintgtm.com/p/heres-a-list-of-every-us-sales-team
+158. “So which of those twenty thousand need what I sell?” — same
+159. “The problem is that every available filter describes what a company is, and the question is about how it sells.” — same
+160. “At those 3,300 you are not asking anyone to invent a budget. The job already exists, so the money already exists.” — same
+161. “Argue me down by five more and it is still twenty.” — same
+162. “So the vertical worth sorting on is not "fintech". It is "four people in the room and one of them is technical".” — same
+163. “At seventeen thousandths of a cent per company you stop picking the top five hundred and hoping. You read everyone, then sort.” — same
