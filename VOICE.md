@@ -233,3 +233,13 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 161. “Argue me down by five more and it is still twenty.” — same
 162. “So the vertical worth sorting on is not "fintech". It is "four people in the room and one of them is technical".” — same
 163. “At seventeen thousandths of a cent per company you stop picking the top five hundred and hoping. You read everyone, then sort.” — same
+
+### Spoken — Pipeline Council session (RN4DSQE4EHU, 2026-10-08; captions approx.) + host write-up (2026-10-20)
+164. “If these are the smartest things, if there's a 10% chance that they will destroy all of humanity, how come they can't destroy my numbers?” — https://www.youtube.com/watch?v=RN4DSQE4EHU
+165. “the bribes work. I mean, they clearly have been giving so many AirPods away.” — same
+166. “look at the message it produces.” — same
+167. “first you need to quit your software job and and bet on Poly Market.” — same
+168. “If there's seafoam, I'm in, right?” — same
+169. “no AI from your competitors is going to out message you because you have an understanding about what your customer wants.” — same
+170. “If your team just exists in a bunch of chats or their own Claude Code session, there is no chance for compounding intelligence” — https://www.howwescaledthis.com/p/give-away-the-info-your-buyer-would
+171. “All you're doing is you're selling a conversation.” — same
