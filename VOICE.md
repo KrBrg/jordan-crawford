@@ -243,3 +243,12 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 169. “no AI from your competitors is going to out message you because you have an understanding about what your customer wants.” — same
 170. “If your team just exists in a bunch of chats or their own Claude Code session, there is no chance for compounding intelligence” — https://www.howwescaledthis.com/p/give-away-the-info-your-buyer-would
 171. “All you're doing is you're selling a conversation.” — same
+
+### Spoken — @BlueprintGTM “Mastering AI in GTM involves Just This One Thought” (MK9lnq0fn8c, 2026-10-26; captions approx.)
+172. “I try not to repeat the same talk twice, unlike comedians that reuse their scripts. I do repeat the same joke twice.” — https://www.youtube.com/watch?v=MK9lnq0fn8c
+173. “Frankly, the hardest part is discovering the data and what's useful.” — same
+174. “You do not want an AI having a conversation with an interested buyer that's going to spend 20K plus on your solution.” — same
+175. “It's not that I disagree with that. It's just that that can't be the best use, right?” — same
+176. “where does more intelligence turn your outreach into a self-driving car” — same
+177. “Write a message so good that people would pay to receive it.” — same
+178. “You can make the world come to your prospects.” — same
