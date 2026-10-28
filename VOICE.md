@@ -252,3 +252,11 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 176. “where does more intelligence turn your outreach into a self-driving car” — same
 177. “Write a message so good that people would pay to receive it.” — same
 178. “You can make the world come to your prospects.” — same
+
+### Spoken — @BlueprintGTM “Building software in 2027, make it Bendable!” (gLU32YI71W4, 2026-10-27; captions approx.)
+179. “This is a new phrase that I'm coining. And I think all software needs to be bendable.” — https://www.youtube.com/watch?v=gLU32YI71W4
+180. “people like me can consume the ingredients of a product but make my own meal.” — same
+181. “the new taste of 2027 is going to be knowing what to bend and how.” — same
+182. “the more that your product bends without breaking. And this is the art” — same
+183. “You can go vibe code your own thing.” — same
+184. “Thanks. [laughter] I didn't end it.” — same
