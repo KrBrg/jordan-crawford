@@ -260,3 +260,12 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 182. “the more that your product bends without breaking. And this is the art” — same
 183. “You can go vibe code your own thing.” — same
 184. “Thanks. [laughter] I didn't end it.” — same
+
+
+### Long-form — Substack “Technographics for Phone Numbers” (2026-10-30)
+185. “Every business on your list has a phone number, and that number is public record about how the business runs.” — https://edge.blueprintgtm.com/p/technographics-for-phone-numbers
+186. “If you sell anything that lives on the phone line, those are switch-from accounts, not cold ones.” — same
+187. “The carrier tells you who already bought before you ever dial.” — same
+188. “So use the flag as a problem you can name on the call, and don't use it to pick accounts.” — same
+189. “Date every flag and look it up again before you put it in a message.” — same
+190. “Price the stack by what you want to know.” — same
