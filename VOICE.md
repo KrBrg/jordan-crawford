@@ -269,3 +269,18 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 188. “So use the flag as a problem you can name on the call, and don't use it to pick accounts.” — same
 189. “Date every flag and look it up again before you put it in a message.” — same
 190. “Price the stack by what you want to know.” — same
+
+
+### Long-form — Substack “Reputation Review: What It's Really Like to Work at Any Company” (2026-11-01)
+191. “Before you trust any company's star rating, check when the reviews were written and which jobs wrote them.” — https://edge.blueprintgtm.com/p/reputation-review-what-its-really
+192. “Four glowing reviews inside two weeks are a reason for caution, not proof that anyone asked for them, and the Doc says so.” — same
+193. “An unusual number of exits is only a candidate for a layoff until a source names the company.” — same
+194. “When two sources disagree on a date, the source read most recently wins.” — same
+
+### Spoken — @BlueprintGTM “Here’s why GTM fails for you in 2026 and how to fix it…” (2026-10-07, auto-captions)
+195. “We don't understand our customers in our bones.” — https://www.youtube.com/watch?v=R-oGEx-gtzw
+196. “if you find yourself talking about you in your message, that means you don't understand your buyer.” — same
+197. “Correct a choice. Correct a choice. Correct a choice and have that knowledge compound.” — same
+198. “there's always going to be a tension between more rows and more accurate rows.” — same
+199. “squeeze that lemon until it's totally dry.” — same
+200. “if we find a mechanism to print money, we should print money.” — same
