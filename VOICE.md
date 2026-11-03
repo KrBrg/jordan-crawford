@@ -271,6 +271,7 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 190. “Price the stack by what you want to know.” — same
 
 
+
 ### Long-form — Substack “Reputation Review: What It's Really Like to Work at Any Company” (2026-11-01)
 191. “Before you trust any company's star rating, check when the reviews were written and which jobs wrote them.” — https://edge.blueprintgtm.com/p/reputation-review-what-its-really
 192. “Four glowing reviews inside two weeks are a reason for caution, not proof that anyone asked for them, and the Doc says so.” — same
@@ -284,3 +285,16 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 198. “there's always going to be a tension between more rows and more accurate rows.” — same
 199. “squeeze that lemon until it's totally dry.” — same
 200. “if we find a mechanism to print money, we should print money.” — same
+
+
+### Spoken — GTMshift Chicago talk and live build (2026-10-21, posted 2026-11-02, auto-captions)
+201. “anyone can promise value. Agents can deliver before the ask.” — https://www.youtube.com/watch?v=w2BqNWIRUDQ
+202. “delete every sentence that is about you. What remains? Is it valuable?” — same
+203. “You're optimizing for the decade, not the day.” — same
+204. “if you send a useful message and people reply, Google will not punish you.” — same
+205. “if my list is 40,000. I've done something dramatically wrong.” — same
+206. “I was really good at getting fired.” — same
+207. “think like a statistician and attack this finding” — same
+208. “I'm trying to impart magic, not deliver magic.” — same
+209. “I say I'm designed to be fired.” — same
+210. “I can bring more water but I can't make them drink.” — same
