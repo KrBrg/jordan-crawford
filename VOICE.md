@@ -298,3 +298,12 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 208. “I'm trying to impart magic, not deliver magic.” — same
 209. “I say I'm designed to be fired.” — same
 210. “I can bring more water but I can't make them drink.” — same
+
+
+### Long-form — Substack “The Best Live LinkedIn Profile API Costs $2.50 per 1,000” (2026-11-04)
+211. “If you need to know where someone works today, and what they did before that, the tool I'd pick costs $2.50 per 1,000 profiles.” — https://edge.blueprintgtm.com/p/the-best-live-linkedin-profile-api
+212. “For most fields, the copy is fine. Schools don't change.” — same
+213. “When seven separate live scrapers agree, 74% is what LinkedIn itself says. No vendor can beat the page.” — same
+214. “Put plainly: on someone who changed jobs this fall, a stored database is wrong about 6 times in 10.” — same
+215. “For a dollar more per 1,000, Up2Data is the one that doesn't need babysitting.” — same
+216. “keep them for search, emails and phones. Don't trust them for where someone works right now.” — same
