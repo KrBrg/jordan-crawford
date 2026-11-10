@@ -307,3 +307,11 @@ Jordan sounds like a fractional GTM engineer who teaches by inversion and live b
 214. “Put plainly: on someone who changed jobs this fall, a stored database is wrong about 6 times in 10.” — same
 215. “For a dollar more per 1,000, Up2Data is the one that doesn't need babysitting.” — same
 216. “keep them for search, emails and phones. Don't trust them for where someone works right now.” — same
+
+Spoken (walking video, 2026-11-09):
+217. “Uh, thank you, by the way, for pointing out my terrible cardiovascular health. I'm working on it.” — https://www.youtube.com/watch?v=C7uMHESLZxo
+218. “Well, we don't know why a customer would buy us, but we know why they would switch to us, right?” — same
+219. “Oh, I almost died.” — same
+220. “Well, as Jeff Bezos says, your margin is my opportunity. Right?” — same
+221. “Thousand dollars the entire country. So think on that” — same
+222. “And that today is your margin. Peace.” — same
